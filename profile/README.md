@@ -25,7 +25,7 @@ Searches such as LMSYS Chatbot Arena leaderboard, LMSYS Chatbot Arena model comp
 | **Remembers context** | Matches, votes, and ranks help you return to the next task fast. |
 | **Fast feedback** | Open the Arena, pick a match, and vote without switching tools. |
 
-![LMSYS Chatbot Arena](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgF-wF6C6nxQGRhM11wvSewqDgSZptx4jo9328WsFkSQ&s)
+![LMSYS Chatbot Arena](https://cdn-thumbnails.huggingface.co/social-thumbnails/spaces/awacke1/lmsys-chatbot-arena-leaderboard.png)
 
 ## Key Features of LMSYS Chatbot Arena
 
